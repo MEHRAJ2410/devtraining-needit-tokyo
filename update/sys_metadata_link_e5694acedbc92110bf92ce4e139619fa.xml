@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e8ef400877d31010842725e368106156</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Enforcement Overrides">decfc00877d31010842725e3681061f2</category>
+        <order>101</order>
+        <property display_value="com.glide.plugin.activation_mode.override" name="com.glide.plugin.activation_mode.override">54b5aba777031010842725e368106125</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-11 21:43:04</sys_created_on>
+        <sys_id>e8ef400877d31010842725e368106156</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>com.glide.plugin.activation_mode.override.Enforcement Overrides</sys_name>
+        <sys_package display_value="Subscription Administration Base" source="com.snc.usage_admin.base">0c461224f9c211108c8bd16244dfe7a3</sys_package>
+        <sys_policy>read</sys_policy>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_e8ef400877d31010842725e368106156</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-09-15 20:01:41</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:18</sys_created_on>
+        <sys_id>e5694acedbc92110bf92ce4e139619fa</sys_id>
+        <sys_name>com.glide.plugin.activation_mode.override.Enforcement Overrides</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_e5694acedbc92110bf92ce4e139619fa</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

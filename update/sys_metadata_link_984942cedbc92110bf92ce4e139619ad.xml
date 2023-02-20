@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>88c9572f0a0a0b500067df75202ee8fa</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Slow Query Logging">88c817920a0a0b5000b060630764c1c1</category>
+        <order>10</order>
+        <property display_value="glide.db.stats" name="glide.db.stats">c74536de0a0a0b84001b8a039ffb1ccd</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>glide.bow</sys_created_by>
+        <sys_created_on>2010-05-11 19:13:36</sys_created_on>
+        <sys_id>88c9572f0a0a0b500067df75202ee8fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.db.stats.Slow Query Logging</sys_name>
+        <sys_package display_value="System Diagnostics" source="com.glide.ui.diagnostics">7114daa4f98211108c8bd16244dfe7c3</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_88c9572f0a0a0b500067df75202ee8fa</sys_update_name>
+        <sys_updated_by>glide.bow</sys_updated_by>
+        <sys_updated_on>2010-05-11 19:13:36</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:41</sys_created_on>
+        <sys_id>984942cedbc92110bf92ce4e139619ad</sys_id>
+        <sys_name>glide.db.stats.Slow Query Logging</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_984942cedbc92110bf92ce4e139619ad</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

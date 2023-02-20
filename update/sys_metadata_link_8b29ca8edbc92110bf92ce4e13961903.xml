@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7a779b690a0a0b3401f7d0a2a15959f4</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Knowledge Portal">7a739baa0a0a0b34013918b2d8f9a7bb</category>
+        <order>60</order>
+        <property display_value="glide.knowman.section_sort" name="glide.knowman.section_sort">60e2cf5ec0a80208000a91ffbc13a814</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2009-07-14 18:12:54</sys_created_on>
+        <sys_id>7a779b690a0a0b3401f7d0a2a15959f4</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.knowman.section_sort.Knowledge Portal</sys_name>
+        <sys_package display_value="Knowledge Management Core" source="com.glideapp.knowledge">bd341ae4f98211108c8bd16244dfe746</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7a779b690a0a0b3401f7d0a2a15959f4</sys_update_name>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2009-07-14 18:26:31</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:19</sys_created_on>
+        <sys_id>8b29ca8edbc92110bf92ce4e13961903</sys_id>
+        <sys_name>glide.knowman.section_sort.Knowledge Portal</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_8b29ca8edbc92110bf92ce4e13961903</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

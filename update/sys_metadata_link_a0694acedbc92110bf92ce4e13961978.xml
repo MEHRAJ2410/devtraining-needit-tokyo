@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>dce7ba2d0723101028ef0a701ad30077</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Model settings">0e93ad5477a14110c59d73937a5a993d</category>
+        <order>400</order>
+        <property display_value="glide.mlpredictor.option.nlu.@lookupSources:software" name="glide.mlpredictor.option.nlu.@lookupSources:software">b6a53ae90723101028ef0a701ad300a2</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-09-29 12:03:38</sys_created_on>
+        <sys_id>dce7ba2d0723101028ef0a701ad30077</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>glide.mlpredictor.option.nlu.@lookupSources:software.Model settings</sys_name>
+        <sys_package display_value="NLU Workbench - Properties" source="com.glide.nlu.properties">f6f91aa8f90611108c8bd16244dfe7bf</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_dce7ba2d0723101028ef0a701ad30077</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-04 11:17:39</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:14</sys_created_on>
+        <sys_id>a0694acedbc92110bf92ce4e13961978</sys_id>
+        <sys_name>glide.mlpredictor.option.nlu.@lookupSources:software.Model settings</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_a0694acedbc92110bf92ce4e13961978</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

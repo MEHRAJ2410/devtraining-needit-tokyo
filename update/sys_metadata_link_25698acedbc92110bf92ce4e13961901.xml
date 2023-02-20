@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e98717ee0a0a0b68001fbd22a24faee8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="ReplicationSecondary">a2ef47020a0a0b17004ac7e388905fbf</category>
+        <order>10</order>
+        <property display_value="glide.db.replicate_slave" name="glide.db.replicate_slave">e985c7400a0a0b6800290c6b2a8ab3af</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>glide.bow</sys_created_by>
+        <sys_created_on>2009-09-24 00:50:27</sys_created_on>
+        <sys_id>e98717ee0a0a0b68001fbd22a24faee8</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Database Replication" source="com.snc.db.replicate">3edf4ea0f90211108c8bd16244dfe7cd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_e98717ee0a0a0b68001fbd22a24faee8</sys_update_name>
+        <sys_updated_by>glide.bow</sys_updated_by>
+        <sys_updated_on>2009-09-24 00:50:27</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:19</sys_created_on>
+        <sys_id>25698acedbc92110bf92ce4e13961901</sys_id>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_25698acedbc92110bf92ce4e13961901</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

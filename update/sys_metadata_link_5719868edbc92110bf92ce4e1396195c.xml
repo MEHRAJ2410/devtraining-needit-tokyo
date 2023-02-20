@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4444d53cc0a80166059dfe6bc1015412</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Text Search Query Properties">44433522c0a801662bff9812d825b1d4</category>
+        <order>200</order>
+        <property display_value="glide.ts.query.parallelism" name="glide.ts.query.parallelism">366cbbfd0a00065475896576c27abe8c</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>myla.jordan</sys_created_by>
+        <sys_created_on>2011-04-11 11:14:12</sys_created_on>
+        <sys_id>4444d53cc0a80166059dfe6bc1015412</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ts.query.parallelism.Text Search Query Properties</sys_name>
+        <sys_package display_value="Zing Text Search" source="com.glide.ts">6ad51a60f9c211108c8bd16244dfe7bb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_4444d53cc0a80166059dfe6bc1015412</sys_update_name>
+        <sys_updated_by>myla.jordan</sys_updated_by>
+        <sys_updated_on>2011-04-11 11:14:12</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:04</sys_created_on>
+        <sys_id>5719868edbc92110bf92ce4e1396195c</sys_id>
+        <sys_name>glide.ts.query.parallelism.Text Search Query Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_5719868edbc92110bf92ce4e1396195c</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

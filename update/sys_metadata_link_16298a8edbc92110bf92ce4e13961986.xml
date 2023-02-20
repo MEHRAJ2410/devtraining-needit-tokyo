@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>72c75892d7532100a9ad1e173e24d4de</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Service Creator">68b75892d7532100a9ad1e173e24d4d6</category>
+        <order>300</order>
+        <property display_value="glide.service_creator.set_category_roles" name="glide.service_creator.set_category_roles">435a1433c3121100c8b837659bba8f8f</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2014-09-23 16:01:17</sys_created_on>
+        <sys_id>72c75892d7532100a9ad1e173e24d4de</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>glide.service_creator.set_category_roles.Service Creator</sys_name>
+        <sys_package display_value="Service Creator" source="com.glide.service_creator">08f4dae8f98211108c8bd16244dfe765</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_72c75892d7532100a9ad1e173e24d4de</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2014-09-23 16:11:53</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:17</sys_created_on>
+        <sys_id>16298a8edbc92110bf92ce4e13961986</sys_id>
+        <sys_name>glide.service_creator.set_category_roles.Service Creator</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_16298a8edbc92110bf92ce4e13961986</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

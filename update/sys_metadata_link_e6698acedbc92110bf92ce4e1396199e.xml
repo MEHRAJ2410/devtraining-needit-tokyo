@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>f88888373b2123009cbbcea234efc4fd</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Chat Client Portal URL Mapping">6bc6c0f33b2123009cbbcea234efc49f</category>
+        <order>50</order>
+        <property display_value="com.glide.cs.portal_url_mapping._default.task" name="com.glide.cs.portal_url_mapping._default.task">796888373b2123009cbbcea234efc49b</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-11-10 00:24:44</sys_created_on>
+        <sys_id>f88888373b2123009cbbcea234efc4fd</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>com.glide.cs.portal_url_mapping._default.task.Virtual Agent Client Portal URL Mapping</sys_name>
+        <sys_package display_value="Glide Conversation Server" source="com.glide.cs">28dbda24f94611108c8bd16244dfe746</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_f88888373b2123009cbbcea234efc4fd</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-11-10 01:31:53</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:23</sys_created_on>
+        <sys_id>e6698acedbc92110bf92ce4e1396199e</sys_id>
+        <sys_name>com.glide.cs.portal_url_mapping._default.task.Virtual Agent Client Portal URL Mapping</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_e6698acedbc92110bf92ce4e1396199e</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

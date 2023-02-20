@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>98ddb0ed532333008ef67c2c0fc587f3</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Change Collision">bc36fc630a0a2c3e0bf222072414e70d</category>
+        <order>1300</order>
+        <property display_value="change.conflict.allow_contiguous_changes" name="change.conflict.allow_contiguous_changes">444f6869532333008ef67c2c0fc5876d</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-08-28 10:48:02</sys_created_on>
+        <sys_id>98ddb0ed532333008ef67c2c0fc587f3</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>change.conflict.allow_contiguous_changes.Change Collision</sys_name>
+        <sys_package display_value="Change Management - Collision Detector" source="com.snc.change.collision">de07d2e4f9c211108c8bd16244dfe728</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_98ddb0ed532333008ef67c2c0fc587f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-08-28 11:03:39</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:49</sys_created_on>
+        <sys_id>5a49c2cedbc92110bf92ce4e13961931</sys_id>
+        <sys_name>change.conflict.allow_contiguous_changes.Change Collision</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_5a49c2cedbc92110bf92ce4e13961931</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

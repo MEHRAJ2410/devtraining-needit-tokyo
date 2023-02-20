@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>3bca34d5d7403100976a69418e6103e8</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="NG-BSM Map">ee17d124d7632100976a69418e610311</category>
+        <order>200</order>
+        <property display_value="glide.bsm.too_many_children" name="glide.bsm.too_many_children">e0714b280a47035600811dfaf2ae96a0</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2014-10-27 22:47:26</sys_created_on>
+        <sys_id>3bca34d5d7403100976a69418e6103e8</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.bsm.too_many_children.NG-BSM Map</sys_name>
+        <sys_package display_value="Next-Gen BSM" source="com.snc.ng_bsm">a714dea4f98211108c8bd16244dfe743</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_3bca34d5d7403100976a69418e6103e8</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2014-12-15 23:34:26</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:01</sys_created_on>
+        <sys_id>a619468edbc92110bf92ce4e13961931</sys_id>
+        <sys_name>glide.bsm.too_many_children.NG-BSM Map</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_a619468edbc92110bf92ce4e13961931</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

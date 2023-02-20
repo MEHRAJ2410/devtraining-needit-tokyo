@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>466e995ec0a80a68707bb55a6596e959</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="System">889431970a0a0b5000dbc98cfb77cf4a</category>
+        <order>3600</order>
+        <property display_value="glide.use_tiny_urls" name="glide.use_tiny_urls">22173f7ac0a801432cb95af98228f0f3</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>john.roberts</sys_created_by>
+        <sys_created_on>2010-06-17 15:02:20</sys_created_on>
+        <sys_id>466e995ec0a80a68707bb55a6596e959</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.use_tiny_urls.System</sys_name>
+        <sys_package display_value="Tiny URL Support" source="com.glide.tiny_url">b1101a24f90211108c8bd16244dfe700</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_466e995ec0a80a68707bb55a6596e959</sys_update_name>
+        <sys_updated_by>john.roberts</sys_updated_by>
+        <sys_updated_on>2010-06-17 15:04:19</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:05</sys_created_on>
+        <sys_id>6b19868edbc92110bf92ce4e139619a2</sys_id>
+        <sys_name>glide.use_tiny_urls.System</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_6b19868edbc92110bf92ce4e139619a2</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

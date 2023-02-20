@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>98a54bb753023010c59dddeeff7b129e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Assessments">e227b694d7221100828320300e6103ce</category>
+        <order>100</order>
+        <property display_value="sn_me_survey.mobile.primary_color" name="sn_me_survey.mobile.primary_color">68d4c77753023010c59dddeeff7b120a</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-25 15:38:10</sys_created_on>
+        <sys_id>98a54bb753023010c59dddeeff7b129e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>sn_me_survey.mobile.primary_color.Assessments</sys_name>
+        <sys_package display_value="Surveys for mobile" source="sn_me_survey">317b09fb535323002d96ddeeff7b121b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Surveys for mobile">317b09fb535323002d96ddeeff7b121b</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_98a54bb753023010c59dddeeff7b129e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-08-25 15:38:10</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:49</sys_created_on>
+        <sys_id>9e49c2cedbc92110bf92ce4e13961922</sys_id>
+        <sys_name>sn_me_survey.mobile.primary_color.Assessments</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_9e49c2cedbc92110bf92ce4e13961922</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

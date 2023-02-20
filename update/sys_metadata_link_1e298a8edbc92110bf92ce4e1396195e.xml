@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>6f7e401b0a0007c209cd623b160c2da0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Workflow">6f7d191d0a0007c2281fe598aba582ab</category>
+        <order>400</order>
+        <property display_value="glide.workflow.log.info" name="glide.workflow.log.info">076e42590a0a0b266b6a4dc2f046901f</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>jimmy.yuan</sys_created_by>
+        <sys_created_on>2011-04-19 20:40:35</sys_created_on>
+        <sys_id>6f7e401b0a0007c209cd623b160c2da0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.workflow.log.info.Workflow</sys_name>
+        <sys_package display_value="Workflow Runtime Engine" source="com.glideapp.workflow">1b8396e0f98211108c8bd16244dfe7b1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_6f7e401b0a0007c209cd623b160c2da0</sys_update_name>
+        <sys_updated_by>jimmy.yuan</sys_updated_by>
+        <sys_updated_on>2011-04-19 20:40:35</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:16</sys_created_on>
+        <sys_id>1e298a8edbc92110bf92ce4e1396195e</sys_id>
+        <sys_name>glide.workflow.log.info.Workflow</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_1e298a8edbc92110bf92ce4e1396195e</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>88b1c44b0a0a0b5000f53c95b0027d67</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="BSM Map">88b125a80a0a0b50000b475403108ba8</category>
+        <order>110</order>
+        <property display_value="glide.bsm.new_node_color" name="glide.bsm.new_node_color">5d735e800a0a0b5100f7e499959e06b2</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>glide.bow</sys_created_by>
+        <sys_created_on>2010-05-11 18:47:51</sys_created_on>
+        <sys_id>88b1c44b0a0a0b5000f53c95b0027d67</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.bsm.new_node_color.BSM Map</sys_name>
+        <sys_package display_value="BSM Map" source="com.glideapp.bsm_map2">6a04d6a4f98211108c8bd16244dfe731</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_88b1c44b0a0a0b5000f53c95b0027d67</sys_update_name>
+        <sys_updated_by>glide.bow</sys_updated_by>
+        <sys_updated_on>2010-05-11 18:47:51</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:41</sys_created_on>
+        <sys_id>d44942cedbc92110bf92ce4e139619a4</sys_id>
+        <sys_name>glide.bsm.new_node_color.BSM Map</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_d44942cedbc92110bf92ce4e139619a4</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

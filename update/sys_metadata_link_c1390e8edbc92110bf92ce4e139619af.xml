@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>887787e30a0a0b50005630b1d92cd739</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Google Maps">8876d6240a0a0b5000922366a50451ec</category>
+        <order>300</order>
+        <property display_value="google.maps.key" name="google.maps.key">18d22da2c0a8016900d10efac65a04b2</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>glide.bow</sys_created_by>
+        <sys_created_on>2010-05-11 17:44:14</sys_created_on>
+        <sys_id>887787e30a0a0b50005630b1d92cd739</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>google.maps.key.Google Maps</sys_name>
+        <sys_package display_value="Google Maps Plugin" source="com.glideapp.google_maps">6584d668f98211108c8bd16244dfe754</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_887787e30a0a0b50005630b1d92cd739</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-06 02:06:27</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:28</sys_created_on>
+        <sys_id>c1390e8edbc92110bf92ce4e139619af</sys_id>
+        <sys_name>google.maps.key.Google Maps</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_c1390e8edbc92110bf92ce4e139619af</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>28fdfb51ff2102007729ffffffffff21</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="System Configuration UI16">1b54c6e2ff7102007729ffffffffffdf</category>
+        <order>1000</order>
+        <property display_value="css.$navpage-nav-bg" name="css.$navpage-nav-bg">39bdbb51ff2102007729ffffffffff6b</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-07-28 22:45:26</sys_created_on>
+        <sys_id>28fdfb51ff2102007729ffffffffff21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>css.$navpage-nav-bg.System Configuration</sys_name>
+        <sys_package display_value="UI16" source="com.glide.ui.ui16">47801ee4f90211108c8bd16244dfe723</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_28fdfb51ff2102007729ffffffffff21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-07-28 22:45:26</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:14:56</sys_created_on>
+        <sys_id>5919068edbc92110bf92ce4e1396194b</sys_id>
+        <sys_name>css.$navpage-nav-bg.System Configuration</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_5919068edbc92110bf92ce4e1396194b</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d9bb5b3253120200601fa3fc9ec58731</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Mobile">265536a7eb030100d2d5abf11206fe30</category>
+        <order>600</order>
+        <property display_value="glide.ui.m.blur_ui_when_backgrounded" name="glide.ui.m.blur_ui_when_backgrounded">e79b533253120200601fa3fc9ec58767</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-09-08 18:53:43</sys_created_on>
+        <sys_id>d9bb5b3253120200601fa3fc9ec58731</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>glide.ui.m.blur_ui_when_backgrounded.Mobile</sys_name>
+        <sys_package display_value="Mobile UI" source="com.glide.ui.m">8e50d6a4f90211108c8bd16244dfe779</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_d9bb5b3253120200601fa3fc9ec58731</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2016-08-12 00:08:17</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:13</sys_created_on>
+        <sys_id>c4694acedbc92110bf92ce4e1396194e</sys_id>
+        <sys_name>glide.ui.m.blur_ui_when_backgrounded.Mobile</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_c4694acedbc92110bf92ce4e1396194e</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

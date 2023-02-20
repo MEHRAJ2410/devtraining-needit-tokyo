@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7a7b8ad00a0a0b34017d03be9466fb9e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Knowledge Other">7a7a3be90a0a0b3401b74b163b0ec355</category>
+        <order>10</order>
+        <property display_value="glide.knowman.attach.fields" name="glide.knowman.attach.fields">ed681c370a0a0a6f006c0b3de776161c</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>glide.maint</sys_created_by>
+        <sys_created_on>2009-07-14 18:17:12</sys_created_on>
+        <sys_id>7a7b8ad00a0a0b34017d03be9466fb9e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Knowledge Management Core" source="com.glideapp.knowledge">bd341ae4f98211108c8bd16244dfe746</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7a7b8ad00a0a0b34017d03be9466fb9e</sys_update_name>
+        <sys_updated_by>glide.maint</sys_updated_by>
+        <sys_updated_on>2009-07-14 18:17:12</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:20</sys_created_on>
+        <sys_id>0729ca8edbc92110bf92ce4e1396192c</sys_id>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_0729ca8edbc92110bf92ce4e1396192c</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c9d693d60a0a0b8201ef61b5de3d7814</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Knowledge View">7a6b21a70a0a0b3401902b7aedbd568d</category>
+        <order>150</order>
+        <property display_value="glide.knowman.show_user_feedback" name="glide.knowman.show_user_feedback">c9b357af0a0a0b82008cba97a078daca</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>james.capaldo</sys_created_by>
+        <sys_created_on>2009-09-17 21:09:26</sys_created_on>
+        <sys_id>c9d693d60a0a0b8201ef61b5de3d7814</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.knowman.show_user_feedback.Knowledge View</sys_name>
+        <sys_package display_value="Knowledge Management Core" source="com.glideapp.knowledge">bd341ae4f98211108c8bd16244dfe746</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_c9d693d60a0a0b8201ef61b5de3d7814</sys_update_name>
+        <sys_updated_by>james.capaldo</sys_updated_by>
+        <sys_updated_on>2009-09-17 21:09:26</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:07</sys_created_on>
+        <sys_id>6259c6cedbc92110bf92ce4e139619c9</sys_id>
+        <sys_name>glide.knowman.show_user_feedback.Knowledge View</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_6259c6cedbc92110bf92ce4e139619c9</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

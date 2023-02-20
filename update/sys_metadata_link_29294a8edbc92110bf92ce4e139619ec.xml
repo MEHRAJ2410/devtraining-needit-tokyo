@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>64d160c4b79a3010b6e8bc15ae11a925</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Chat System Messages">4f33892a533e5010ad82ddeeff7b1218</category>
+        <order>1</order>
+        <property display_value="com.glide.cs.sensitive.data.agent_error" name="com.glide.cs.sensitive.data.agent_error">6d712080b79a3010b6e8bc15ae11a96f</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-08-25 22:20:57</sys_created_on>
+        <sys_id>64d160c4b79a3010b6e8bc15ae11a925</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>com.glide.cs.sensitive.data.agent_error.Chat System Messages</sys_name>
+        <sys_package display_value="Glide Conversation Server" source="com.glide.cs">28dbda24f94611108c8bd16244dfe746</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_64d160c4b79a3010b6e8bc15ae11a925</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-09-21 21:51:10</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:14</sys_created_on>
+        <sys_id>29294a8edbc92110bf92ce4e139619ec</sys_id>
+        <sys_name>com.glide.cs.sensitive.data.agent_error.Chat System Messages</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_29294a8edbc92110bf92ce4e139619ec</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

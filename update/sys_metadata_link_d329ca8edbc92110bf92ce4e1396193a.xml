@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7b67fdff87630010e0ef0cf888cb0ba1</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Catalog Mobile">e79e7b7b87930010e0ef0cf888cb0b88</category>
+        <order>400</order>
+        <property display_value="glide.sc.mobile.unsupported_discover" name="glide.sc.mobile.unsupported_discover">418671ff87630010e0ef0cf888cb0be6</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-03-21 10:57:15</sys_created_on>
+        <sys_id>7b67fdff87630010e0ef0cf888cb0ba1</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>glide.sc.mobile.unsupported_discover.Catalog Mobile</sys_name>
+        <sys_package display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">f2841a68f98211108c8bd16244dfe7e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7b67fdff87630010e0ef0cf888cb0ba1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-03-31 14:53:33</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:20</sys_created_on>
+        <sys_id>d329ca8edbc92110bf92ce4e1396193a</sys_id>
+        <sys_name>glide.sc.mobile.unsupported_discover.Catalog Mobile</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_d329ca8edbc92110bf92ce4e1396193a</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c83afe205b420110693e7da52d81c75e</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="MultiSource">bd6cae645b020110693e7da52d81c72e</category>
+        <order>300</order>
+        <property display_value="glide.identification_engine.multisource_non_cmdb_ci_enabled" name="glide.identification_engine.multisource_non_cmdb_ci_enabled">d059b2205b420110693e7da52d81c73e</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-03-02 08:39:05</sys_created_on>
+        <sys_id>c83afe205b420110693e7da52d81c75e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.identification_engine.multisource_non_cmdb_ci_enabled.MultiSource</sys_name>
+        <sys_package display_value="Configuration Management (CMDB)" source="com.snc.cmdb">4631962cf90211108c8bd16244dfe724</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_c83afe205b420110693e7da52d81c75e</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-03-02 08:39:05</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:06</sys_created_on>
+        <sys_id>d259c6cedbc92110bf92ce4e1396191d</sys_id>
+        <sys_name>glide.identification_engine.multisource_non_cmdb_ci_enabled.MultiSource</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_d259c6cedbc92110bf92ce4e1396191d</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

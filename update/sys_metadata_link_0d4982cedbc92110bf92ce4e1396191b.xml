@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>90bd16b2ff4131009b20ffffffffff1d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Knowledge Homepage">761d96b2ff4131009b20ffffffffffa9</category>
+        <order>100</order>
+        <property display_value="glide.knowman.default_keyword" name="glide.knowman.default_keyword">7136b6d6ff8031003f07ffffffffff62</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2014-12-21 14:53:08</sys_created_on>
+        <sys_id>90bd16b2ff4131009b20ffffffffff1d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.knowman.default_keyword.Knowledge Homepage</sys_name>
+        <sys_package display_value="Knowledge Management Core" source="com.glideapp.knowledge">bd341ae4f98211108c8bd16244dfe746</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_90bd16b2ff4131009b20ffffffffff1d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2014-12-21 14:53:08</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:44</sys_created_on>
+        <sys_id>0d4982cedbc92110bf92ce4e1396191b</sys_id>
+        <sys_name>glide.knowman.default_keyword.Knowledge Homepage</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_0d4982cedbc92110bf92ce4e1396191b</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

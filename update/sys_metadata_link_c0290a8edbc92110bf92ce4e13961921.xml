@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>4e796953eb3101006a668c505206fedc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Password Reset SMS">a40a5173d70201002bb9af728e6103d2</category>
+        <order>200</order>
+        <property display_value="password_reset.sms.pause_window" name="password_reset.sms.pause_window">88e86953eb3101006a668c505206fe29</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2013-06-11 18:35:34</sys_created_on>
+        <sys_id>4e796953eb3101006a668c505206fedc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>password_reset.sms.pause_window.Password Reset SMS</sys_name>
+        <sys_package display_value="Password Reset" source="com.glideapp.password_reset">6d7792a8f9c211108c8bd16244dfe75d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_4e796953eb3101006a668c505206fedc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2013-06-11 18:35:34</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:07</sys_created_on>
+        <sys_id>c0290a8edbc92110bf92ce4e13961921</sys_id>
+        <sys_name>password_reset.sms.pause_window.Password Reset SMS</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_c0290a8edbc92110bf92ce4e13961921</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>17451526c7331010d1cfd9795cc26089</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="AI Search Query Properties">5b15d126c7331010d1cfd9795cc26088</category>
+        <order>200</order>
+        <property display_value="glide.ais.query.max_request_count_per_search" name="glide.ais.query.max_request_count_per_search">cae0390ec7335010b7b65e736cc26013</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-14 17:42:34</sys_created_on>
+        <sys_id>17451526c7331010d1cfd9795cc26089</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ais.query.max_request_count_per_search.AI Search Query Properties</sys_name>
+        <sys_package display_value="AI Search" source="com.glide.ais">d5c09668f90211108c8bd16244dfe76c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_17451526c7331010d1cfd9795cc26089</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-14 17:42:34</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:14:52</sys_created_on>
+        <sys_id>9419c28edbc92110bf92ce4e13961931</sys_id>
+        <sys_name>glide.ais.query.max_request_count_per_search.AI Search Query Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_9419c28edbc92110bf92ce4e13961931</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>552634119f313100ef4afa7dc67fcf15</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="High Security Enabled Settings">97581c0a7f0000012aa97c9c76d096ec</category>
+        <order>100</order>
+        <property display_value="glide.basicauth.required.schema" name="glide.basicauth.required.schema">4ce5b0119f313100ef4afa7dc67fcfbe</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2015-01-22 22:16:56</sys_created_on>
+        <sys_id>552634119f313100ef4afa7dc67fcf15</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.basicauth.required.schema.High Security Enabled Settings</sys_name>
+        <sys_package display_value="High Security Settings" source="com.glide.high_security">b205962cf98211108c8bd16244dfe76b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_552634119f313100ef4afa7dc67fcf15</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2015-01-22 22:16:56</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:09</sys_created_on>
+        <sys_id>64294a8edbc92110bf92ce4e13961913</sys_id>
+        <sys_name>glide.basicauth.required.schema.High Security Enabled Settings</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_64294a8edbc92110bf92ce4e13961913</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

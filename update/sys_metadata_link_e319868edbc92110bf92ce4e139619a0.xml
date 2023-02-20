@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>462de279870023000e3dd61e36cb0b6d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Problem Task State Transition Properties">7454e0a9874823000e3dd61e36cb0b42</category>
+        <order>100</order>
+        <property display_value="problem.closed.cancel_open_tasks" name="problem.closed.cancel_open_tasks">6cb745f5874023000e3dd61e36cb0bc8</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-08-21 17:42:03</sys_created_on>
+        <sys_id>462de279870023000e3dd61e36cb0b6d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>problem.closed.cancel_open_tasks.Problem Task State Transition Properties</sys_name>
+        <sys_package display_value="Problem Management Best Practice - Madrid - State Model" source="com.snc.best_practice.problem.madrid.state_model">4469d6a4f90611108c8bd16244dfe7e6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_462de279870023000e3dd61e36cb0b6d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-08-21 17:42:03</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:05</sys_created_on>
+        <sys_id>e319868edbc92110bf92ce4e139619a0</sys_id>
+        <sys_name>problem.closed.cancel_open_tasks.Problem Task State Transition Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_e319868edbc92110bf92ce4e139619a0</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

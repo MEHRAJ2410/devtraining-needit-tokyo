@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>0795e5759773100031af390ddd297561</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Email Advanced">0bde68340a0a0b240055fe368a085ea4</category>
+        <order>1000</order>
+        <property display_value="glide.smtp.fail_message_ids" name="glide.smtp.fail_message_ids">148225759773100031af390ddd29753c</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2012-01-26 23:59:06</sys_created_on>
+        <sys_id>0795e5759773100031af390ddd297561</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.smtp.fail_message_ids.Email Advanced</sys_name>
+        <sys_package display_value="System Property Categories" source="com.glide.system_property_categories">88ef02e0f90211108c8bd16244dfe766</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_0795e5759773100031af390ddd297561</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2012-01-26 23:59:06</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:14:49</sys_created_on>
+        <sys_id>2709828edbc92110bf92ce4e13961955</sys_id>
+        <sys_name>glide.smtp.fail_message_ids.Email Advanced</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_2709828edbc92110bf92ce4e13961955</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

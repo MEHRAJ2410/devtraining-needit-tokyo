@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>d9eead4877210110c334b2a07b5a9953</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Service Catalog">886026c40a0a0b500062d82758e1c116</category>
+        <order>100</order>
+        <property display_value="glide.sc.va.render_type.legacy" name="glide.sc.va.render_type.legacy">529e294877210110c334b2a07b5a99d5</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-02-03 17:21:46</sys_created_on>
+        <sys_id>d9eead4877210110c334b2a07b5a9953</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.sc.va.render_type.legacy.Service Catalog</sys_name>
+        <sys_package display_value="Virtual Agent Platform Topic Blocks" source="com.glide.cs.topic_blocks">9feb5664f94611108c8bd16244dfe770</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_d9eead4877210110c334b2a07b5a9953</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-02-03 17:21:46</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:13</sys_created_on>
+        <sys_id>d8694acedbc92110bf92ce4e13961950</sys_id>
+        <sys_name>glide.sc.va.render_type.legacy.Service Catalog</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_d8694acedbc92110bf92ce4e13961950</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

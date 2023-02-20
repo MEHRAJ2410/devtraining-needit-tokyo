@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c9898adb67e403004b8d794717415acf</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Catalog Security">ae504adb67a403004b8d794717415a18</category>
+        <order>200</order>
+        <property display_value="glide.sc.user_criteria_migration" name="glide.sc.user_criteria_migration">4ab64713c3212100c8b837659bba8ffe</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-18 11:06:19</sys_created_on>
+        <sys_id>c9898adb67e403004b8d794717415acf</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.sc.user_criteria_migration.Catalog Security</sys_name>
+        <sys_package display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">f2841a68f98211108c8bd16244dfe7e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_c9898adb67e403004b8d794717415acf</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-18 11:06:19</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:06</sys_created_on>
+        <sys_id>a659c6cedbc92110bf92ce4e139619c2</sys_id>
+        <sys_name>glide.sc.user_criteria_migration.Catalog Security</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_a659c6cedbc92110bf92ce4e139619c2</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>b24886db67e403004b8d794717415a47</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Catalog Cart">ddbf3d5f676403004b8d794717415a14</category>
+        <order>200</order>
+        <property display_value="glide.sc.allow.clone.roles" name="glide.sc.allow.clone.roles">ee5d1fb7c0a8010a019dc72f7fd1b80c</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2017-08-18 11:00:57</sys_created_on>
+        <sys_id>b24886db67e403004b8d794717415a47</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.sc.allow.clone.roles.Catalog Cart</sys_name>
+        <sys_package display_value="Service Catalog Platform" source="com.glideapp.servicecatalog.platform">f2841a68f98211108c8bd16244dfe7e0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_b24886db67e403004b8d794717415a47</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2017-08-18 11:00:57</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:58</sys_created_on>
+        <sys_id>dc5906cedbc92110bf92ce4e1396198c</sys_id>
+        <sys_name>glide.sc.allow.clone.roles.Catalog Cart</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_dc5906cedbc92110bf92ce4e1396198c</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

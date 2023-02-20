@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>e7689d21c32121005655107698ba8fbc</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Contextual Search Service">2a589d21c32121005655107698ba8fb0</category>
+        <order>100</order>
+        <property display_value="com.snc.contextual_search.result.default.limit" name="com.snc.contextual_search.result.default.limit">a4ddef01372121003e7d40ed9dbe5dff</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2014-06-26 12:58:21</sys_created_on>
+        <sys_id>e7689d21c32121005655107698ba8fbc</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>com.snc.contextual_search.result.default.limit.Search Service</sys_name>
+        <sys_package display_value="Contextual Search" source="com.snc.contextual_search">4095d6ecf98211108c8bd16244dfe783</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_e7689d21c32121005655107698ba8fbc</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2014-07-14 22:06:59</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:18</sys_created_on>
+        <sys_id>95694acedbc92110bf92ce4e139619e8</sys_id>
+        <sys_name>com.snc.contextual_search.result.default.limit.Search Service</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_95694acedbc92110bf92ce4e139619e8</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

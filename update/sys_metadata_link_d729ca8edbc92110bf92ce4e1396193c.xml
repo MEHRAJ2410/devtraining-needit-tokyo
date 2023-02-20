@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>7becbc7d73333300e289235f04f6a706</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Service Level Management Logging">8712c433c3123100d602763c64d3aef0</category>
+        <order>350</order>
+        <property display_value="com.snc.sla.flow.log" name="com.snc.sla.flow.log">48b83cb973333300e289235f04f6a7db</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-09-10 15:38:21</sys_created_on>
+        <sys_id>7becbc7d73333300e289235f04f6a706</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>com.snc.sla.flow.log.Service Level Management Logging</sys_name>
+        <sys_package display_value="Service level management" source="com.snc.sla">47951eecf98211108c8bd16244dfe732</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_7becbc7d73333300e289235f04f6a706</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-09-10 15:38:21</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:20</sys_created_on>
+        <sys_id>d729ca8edbc92110bf92ce4e1396193c</sys_id>
+        <sys_name>com.snc.sla.flow.log.Service Level Management Logging</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_d729ca8edbc92110bf92ce4e1396193c</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

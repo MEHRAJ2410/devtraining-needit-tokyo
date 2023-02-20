@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>975d1c3c7f0000017d7e1d803314ce1b</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="High Security Enabled Settings">97581c0a7f0000012aa97c9c76d096ec</category>
+        <order>1100</order>
+        <property display_value="">4b51fef30a0a0b613d3d7d31b5b1a45e</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>dloo</sys_created_by>
+        <sys_created_on>2010-05-14 15:09:41</sys_created_on>
+        <sys_id>975d1c3c7f0000017d7e1d803314ce1b</sys_id>
+        <sys_mod_count>8</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="High Security Settings" source="com.glide.high_security">b205962cf98211108c8bd16244dfe76b</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_975d1c3c7f0000017d7e1d803314ce1b</sys_update_name>
+        <sys_updated_by>dloo</sys_updated_by>
+        <sys_updated_on>2010-06-02 19:37:48</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:15:47</sys_created_on>
+        <sys_id>714982cedbc92110bf92ce4e139619de</sys_id>
+        <sys_name/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_714982cedbc92110bf92ce4e139619de</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

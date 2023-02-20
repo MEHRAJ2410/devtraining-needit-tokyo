@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>c4d55660f9c211108c8bd16244dfe75d</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Social">be2f934cc0a80a69525f98870e606297</category>
+        <order>500</order>
+        <property display_value="glide.ui.show_live_feed_activity" name="glide.ui.show_live_feed_activity">cfdf52721f3030006d691b220e8b70a8</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>system</sys_created_by>
+        <sys_created_on>2022-09-17 02:11:18</sys_created_on>
+        <sys_id>c4d55660f9c211108c8bd16244dfe75d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.ui.show_live_feed_activity.Social</sys_name>
+        <sys_package display_value="Live Feed Document - follow tasks (Incident, Change, etc)" source="com.glideapp.live_feed_document">80d55660f9c211108c8bd16244dfe74c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_c4d55660f9c211108c8bd16244dfe75d</sys_update_name>
+        <sys_updated_by>system</sys_updated_by>
+        <sys_updated_on>2022-09-17 02:11:18</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:04</sys_created_on>
+        <sys_id>ce5986cedbc92110bf92ce4e13961963</sys_id>
+        <sys_name>glide.ui.show_live_feed_activity.Social</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_ce5986cedbc92110bf92ce4e13961963</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>

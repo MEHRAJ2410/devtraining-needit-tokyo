@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>fe0249d1871313004ebe6b2b36cb0b21</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties_category_m2m">
+    <sys_properties_category_m2m action="INSERT_OR_UPDATE">
+        <category display_value="Responsive Dashboard Properties">e1035492b310030037c482ff86a8dc34</category>
+        <order>120</order>
+        <property display_value="glide.cms.dashboards.sharing_with_secure_search" name="glide.cms.dashboards.sharing_with_secure_search">ced041d1871313004ebe6b2b36cb0b01</property>
+        <sys_class_name>sys_properties_category_m2m</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-07-13 13:50:01</sys_created_on>
+        <sys_id>fe0249d1871313004ebe6b2b36cb0b21</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>glide.cms.dashboards.sharing_with_secure_search.Responsive Dashboard Properties</sys_name>
+        <sys_package display_value="Responsive Dashboards" source="com.glideapp.dashboards">857752a8f9c211108c8bd16244dfe772</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Global">global</sys_scope>
+        <sys_update_name>sys_properties_category_m2m_fe0249d1871313004ebe6b2b36cb0b21</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-07-13 13:50:01</sys_updated_on>
+    </sys_properties_category_m2m>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-17 20:16:25</sys_created_on>
+        <sys_id>8b698acedbc92110bf92ce4e139619db</sys_id>
+        <sys_name>glide.cms.dashboards.sharing_with_secure_search.Responsive Dashboard Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_metadata_link_8b698acedbc92110bf92ce4e139619db</sys_update_name>
+        <tablename>sys_properties_category_m2m</tablename>
+    </sys_metadata_link>
+</record_update>
