@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="email_client=true,hasWorkflow=true,live_feed=true,all_tables.query_hints=true" audit="true" db_object_id="07f312a4f98211108c8bd16244dfe7d8" extends="task" label="Incident" max_length="40" name="incident" text_index="true" type="collection">
+        <element choice="3" label="Branch" max_length="200" name="x_58872_needit_branch" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Branch A" value="Branch A"/>
+                <element inactive_on_update="false" label="Branch B" value="Branch B"/>
+            </choice>
+        </element>
+        <element label="Perfomence" max_length="100" name="x_58872_needit_perfomence" type="integer"/>
+        <element label="Time" max_length="100" name="x_58872_needit_time" type="glide_date_time"/>
+    </element>
+</database>
